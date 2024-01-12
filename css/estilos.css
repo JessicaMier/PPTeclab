@@ -1,0 +1,80 @@
+/*............................estilo de fondo body..................................*/
+/*.body {
+    background-image: url(img/clouds-g07d4af23c_640.jpg);
+    background-size: cover;
+    background-position: center;
+}*/
+
+.inicio {
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+}
+
+/*---------------------------formulario------------------------------------------*/
+.principal {
+    height: 500px;
+    width: 100vp;
+    background-image: url(../img/mujer2.jpg);
+    background-size: cover;
+}
+
+
+/*--------------------------estilo carrusel-------------------------------------*/
+.alto {
+    background-size: cover;
+    background-position: center;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+h5 {
+    text-shadow: 1px 1px 2px rgb(230, 204, 204);
+}
+
+.titulo {
+    font-size: 40px;
+    color: rgba(14, 11, 26, 0.644);
+}
+
+.imgCard {
+    width: 250px;
+    height: 160px;
+    margin: 10px;
+}
+
+.lugares {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+}
+
+/*------------------------pie de pagina del blog--------------------------------*/
+.redes {
+    height: 40px;
+    width: 40px;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.redes a {
+    color: rgb(0, 0, 0);
+}
+
+.redes1 {
+    background-color: rgba(228, 107, 228, 0.979);
+}
+
+.redes2 {
+    background-color: rgb(117, 117, 236);
+}
+
+.redes3 {
+    background-color: rgb(109, 241, 109);
+}

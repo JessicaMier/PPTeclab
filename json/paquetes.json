@@ -1,0 +1,57 @@
+[
+    {
+        "origen":"Bs As",
+        "destino": "Jujuy",
+        "salida": "Marzo 2024",
+        "hotel": "Humahuaca",
+        "noches": 4,
+        "precio": 120000,
+        "img": "jujuy.jpg"
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Mendoza",
+        "salida": "Marzo 2024",
+        "hotel": "Viñedos",
+        "noches": 6,
+        "precio": 136000,
+        "img": "mendoza.jpg"
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Cataratas de Iguazú",
+        "salida": "Marzo 2024",
+        "hotel": "Iguazu",
+        "noches": 5,
+        "precio": 134000,
+        "img": "cataratasIguazu.jpg"
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Villa Carlos Paz",
+        "salida": "Abril 2024",
+        "hotel": "El Dique",
+        "noches": 5,
+        "precio": 132000,
+        "img": "carlosPaz.jpg" 
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Salta",
+        "salida": "Abril 2024",
+        "hotel": "El Dique",
+        "noches": 7,
+        "precio": 138000,
+        "img": "cafayate.jpg"    
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Bariloche",
+        "salida": "Marzo 2024",
+        "hotel": "El Lago",
+        "noches": 7,
+        "precio": 200000,
+        "img": "bariloche.jpg"  
+    }
+
+]
